@@ -62,7 +62,12 @@
 
 - **Research Intern**  
   Department of Electrical Engineering and Computer Science, DGIST, Korea (Jan. 2025 ~ Feb. 2025)  
-  • Contributed to a paper-writing project on *Hyperdimensional Computing-Based Systems*  
+  • Contributed to a paper-writing project on *Hyperdimensional Computing-Based Systems*
+
+  <a href="https://github.com/hyeonzuu">
+  <img src="https://img.shields.io/badge/Previous%20GitHub-hyeonzuu-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 
 
 
