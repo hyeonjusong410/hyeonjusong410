@@ -4,7 +4,7 @@
 <!-- badge -->
 <p align='center'>
   <!-- gmail -->
-  <a href="mailto:hyeonjusong410@gmail.com">
+  <a href="mailto:hyeonjusong041@gmail.com">
   <img src="https://img.shields.io/badge/hyeonjusong410@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   
