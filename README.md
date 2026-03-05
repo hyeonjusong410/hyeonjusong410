@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/badge/hyeonjusong410@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   
-  <!-- Tistory -->
-  <a href="https://import-jjulab.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
-  </a>
+<!-- Velog -->
+<a href="https://velog.io/@im-jju-0-">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</a>
   
   <!-- Blog -->
   <a href="https://blog.naver.com/marry2820">
